@@ -21,7 +21,7 @@ header h2 {
 }
 
 .header-left, .header-right {
-    flex: -50;
+    flex: 0;
 }
 
 .logo {
