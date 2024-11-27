@@ -58,9 +58,12 @@ section {
     margin-bottom: 2rem;
 }
 
-h1, h2 {
+h1 {
     color: #6e7b8b;
 }
+h2 {
+    color: #696969;
+}    
 
 img {
     max-width: 100%;
