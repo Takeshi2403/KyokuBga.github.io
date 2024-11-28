@@ -77,7 +77,7 @@ y{
     padding: 0;
     background-color: #222;
     font-size: 20px;
-    text-decoration-thickness: 50px;
+    text-decoration-style: dotted;
 }
 
 footer {
