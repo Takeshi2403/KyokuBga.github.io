@@ -63,7 +63,14 @@ h1 {
 }
 h2 {
     color: #696969;
-}    
+} 
+
+p{
+    font-family: Cheddar gothic;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
 
 img {
     max-width: 100%;
