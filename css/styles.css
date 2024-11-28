@@ -71,6 +71,13 @@ img {
     border-radius: 8px;
 }
 
+y{
+    font-family: Cheddar gothic;
+    margin: 0;
+    padding: 3rem;
+    background-color: #f4f4f9;
+}
+
 footer {
     text-align: center;
     padding: 1rem;
